@@ -1,14 +1,15 @@
 <div align="center">
 
-# Dany Chheang👩🏻‍💻 
+# Welcome to my Github!👩🏻‍💻 
 
-<strong>Welcome to my Github!</strong> I am a Front-End Developer & passionate self-learner. Have a look around my Master Index to see what I've worked on previously. I am currently working on a Bootstrap project which incorporates JavaScript & API to retrieve bytes of music upon search. I will also be collaborating with a peer in a few weeks to develop a kids game app to be completed by the end of 2020.
-You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang). 
+<strong> I am a Front-End Developer & passionate self-learner. </strong>Have a look around my Master Index to see what I've worked on previously. I am currently working on a Bootstrap project which incorporates JavaScript & API to retrieve bytes of music upon search. I will also be collaborating with a peer in a few weeks to develop a kids game app to be completed by the end of 2020.
+<strong>You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang). </strong>
 
 ## Words I live by:
 
 ![](https://pbs.twimg.com/media/Elb0wt_XEAYJC92?format=png&name=900x900)
 </div>
+
 <!--
 **dcc5235/dcc5235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
