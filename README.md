@@ -6,7 +6,7 @@
 
 ![](https://developer.spotify.com/assets/WebAPI_intro.png)
 
-I will also be collaborating with a peer in a few weeks to develop a kids game app to be completed by the end of 2020.<strong> You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang). </strong>
+I will also be collaborating with a peer in a few weeks to develop a kids game app to be completed by the end of 2020.<strong> You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
 ## Words I live by:
 
