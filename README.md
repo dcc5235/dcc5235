@@ -2,11 +2,7 @@
 
 # Welcome to my Github!👩🏻‍💻 
 
-<strong> I am a Front-End Developer & active self-learner. </strong>Have a look around my Master Index to see what I've worked on previously. I am currently working on a project which incorporates JavaScript & API to retrieve bytes of music upon search. 
-
-![](https://developer.spotify.com/assets/WebAPI_intro.png)
-
-I will also be collaborating with a peer in a few weeks to develop a kids game app to be completed by the end of 2020.<strong> You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
+<strong> I am a Front-End Developer & active self-learner. </strong>Have a look around my Master Index to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
 ## Words I live by:
 
