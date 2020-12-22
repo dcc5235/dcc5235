@@ -2,7 +2,7 @@
 
 # Welcome to my Github!👩🏻‍💻 
 
-<strong> I am a Front-End Developer & active self-learner. </strong>Have a look around my Master Index to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
+<strong> I am a Front-End Developer. </strong>Have a look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
 ## Words I live by:
 
