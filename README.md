@@ -4,10 +4,11 @@
 
 <strong> I am a Front-End Developer. </strong>Have a look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
-## Words I live by:
+## Technologies & Skills
 
-![](https://pbs.twimg.com/media/Elb0wt_XEAYJC92?format=png&name=900x900)
-</div>
+Languages: Bootstrap | Tailwind CSS | CSS Grid | Sass | JavaScript | jQuery | Node
+
+Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility
 
 <!--
 **dcc5235/dcc5235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
