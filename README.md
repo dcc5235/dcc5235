@@ -15,7 +15,6 @@ Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsiv
 Have a look at a select number of projects I have worked on. You can find more in the [Master Index](https://github.com/dcc5235/Master_Index).
 - API
   - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
-  - [_Recipe Finder_](https://github.com/dcc5235/API_Demo1)
 - Bootstrap
   - [_Sign Language Generator_](https://github.com/dcc5235/Sign_Language)
 - CSS Grids
@@ -25,8 +24,6 @@ Have a look at a select number of projects I have worked on. You can find more i
 - JavaScript
   - [_Ecommerce Site_](https://github.com/dcc5235/EComm_Shop)
   - [_Secret Message Sharing App_](https://github.com/dcc5235/Hidden_Message)
-  - [_Color Picker_](https://github.com/dcc5235/Color_Picker)
-  - [_Coin Game_](https://github.com/dcc5235/Coin_Game)
 - Matter
   - [A-maze-ing Game](https://github.com/dcc5235/A-maze-ing_Game)
 - [node](https://github.com/dcc5235/HiDash)
