@@ -13,32 +13,18 @@ Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsiv
 
 ## Projects & Toolbox
 Have a look at a select number of projects I have worked on. You can find more in the [Master Index](https://github.com/dcc5235/Master_Index).
-
+  
 Project | Code | Demo
 ------------ | ------------- | ------------- 
 API | [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns) | N/A
-
-
-  - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
-- Bootstrap
-  - [_Sign Language Generator_](https://github.com/dcc5235/Sign_Language)
-- CSS Grids
-  - [Grid Homes](https://github.com/dcc5235/Grid_Homes)
-- Flexbox
-  - [Flex Reviews](https://github.com/dcc5235/Flex_Reviews)
-- JavaScript
-  - [_Ecommerce Site_](https://github.com/dcc5235/EComm_Shop)
-  - [_Secret Message Sharing App_](https://github.com/dcc5235/Hidden_Message)
-- Matter
-  - [A-maze-ing Game](https://github.com/dcc5235/A-maze-ing_Game)
-- [node](https://github.com/dcc5235/HiDash)
-  - [_Testing Framework_](https://github.com/dcc5235/TME)
-- React
-  - [_Robo Cat Friends_](https://github.com/dcc5235/Robo_Friends)
-- Sass
-  - [Childcare Client Site](https://github.com/dcc5235/Childcare_Landing)
-- Tailwind
-  - [Bubble Tea Landing Page](https://github.com/dcc5235/Tea_Landing)
+Bootstrap | [_Sign Language Generator_](https://github.com/dcc5235/Sign_Language) | [Learn Sign Language](https://dcc5235.github.io/Sign_Language/)
+CSS Grids | [Grid Homes](https://github.com/dcc5235/Grid_Homes) | [View Properties](https://dcc5235.github.io/Grid_Homes/)
+Flexbox | [Flex Reviews](https://github.com/dcc5235/Flex_Reviews) | [Book a Room](https://dcc5235.github.io/Flex_Reviews/)
+JavaScript | [_Secret Message Sharing App_](https://github.com/dcc5235/Hidden_Message) | [Send a Hidden Message](https://hidden-message-seven.vercel.app/)
+Matter | [A-maze-ing Game](https://github.com/dcc5235/A-maze-ing_Game) | [Solve the Maze](https://dcc5235.github.io/A-maze-ing_Game/)
+React | [_Robo Cat Friends_](https://github.com/dcc5235/Robo_Friends) | [Search a Directory](https://dcc5235.github.io/Robo_Friends/)
+Sass | [Childcare Client Site](https://github.com/dcc5235/Childcare_Landing) | [Find a Provider](https://dcc5235.github.io/Childcare_Landing/)
+Tailwind | [Bubble Tea Landing Page](https://github.com/dcc5235/Tea_Landing) | [Score Some Boba](https://dcc5235.github.io/Tea_Landing/)
 
 
 <!--
