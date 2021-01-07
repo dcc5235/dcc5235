@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Welcome to my Github!👩🏻‍💻 
 
@@ -40,7 +40,7 @@ Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsiv
   - [Childcare Client Site](https://github.com/dcc5235/Childcare_Landing)
 - Tailwind
   - [Bubble Tea Landing Page](https://github.com/dcc5235/Tea_Landing)
-</div>
+
 
 <!--
 **dcc5235/dcc5235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
