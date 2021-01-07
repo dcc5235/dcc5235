@@ -12,6 +12,7 @@ Languages: Bootstrap | Tailwind CSS | CSS Grid | Sass | JavaScript | jQuery | No
 Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility
 
 ## Projects & Toolbox
+Have a look at a select number of projects I have worked on. You can find more in the [Master Index](https://github.com/dcc5235/Master_Index).
 - API
   - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
   - [_Recipe Finder_](https://github.com/dcc5235/API_Demo1)
@@ -31,8 +32,7 @@ Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsiv
 - [node](https://github.com/dcc5235/HiDash)
   - [_Testing Framework_](https://github.com/dcc5235/TME)
 - React
-  - [_Robo Friends_](https://github.com/dcc5235/Robo_Friends)
-  - [_Coding Nexus Bootcamp_](https://github.com/dcc5235/codingnexus): Currently working with a team to build 
+  - [_Robo Cat Friends_](https://github.com/dcc5235/Robo_Friends)
 - Sass
   - [Childcare Client Site](https://github.com/dcc5235/Childcare_Landing)
 - Tailwind
