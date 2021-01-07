@@ -2,7 +2,7 @@
 
 # Welcome to my Github!👩🏻‍💻 
 
-<strong> I am a Front-End Developer. </strong><br>
+<strong> I am a Front-End Developer</strong> who focuses on bringing your ideas to life through JavaScript.<br>
 Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. 
 <br>You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
