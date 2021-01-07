@@ -2,12 +2,13 @@
 
 # Welcome to my Github!👩🏻‍💻 
 
-<strong> I am a Front-End Developer. </strong>Have a look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
+<strong> I am a Front-End Developer. </strong><br>
+Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. 
+<br>You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
 ## Technologies & Skills
 
-Languages: Bootstrap | Tailwind CSS | CSS Grid | Sass | JavaScript | jQuery | Node
-
+Languages: Bootstrap | Tailwind CSS | CSS Grid | Sass | JavaScript | jQuery | Node<br>
 Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility
 
 ## Projects & Toolbox
