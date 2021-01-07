@@ -8,12 +8,17 @@ Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Ind
 
 ## Technologies & Skills
 
-Languages: Bootstrap | Tailwind CSS | CSS Grid | Sass | JavaScript | jQuery | Node<br>
+Technologies: Bootstrap | Tailwind CSS | CSS Grid | Sass | JavaScript | jQuery | Node<br>
 Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility
 
 ## Projects & Toolbox
 Have a look at a select number of projects I have worked on. You can find more in the [Master Index](https://github.com/dcc5235/Master_Index).
-- API
+
+Project | Code | Demo
+------------ | ------------- | ------------- 
+API | [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns) | N/A
+
+
   - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
 - Bootstrap
   - [_Sign Language Generator_](https://github.com/dcc5235/Sign_Language)
