@@ -8,7 +8,7 @@ Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Ind
 
 ## Technologies & Skills
 
-Languages, Frameworks, & Libraries: Bootstrap | Tailwind CSS | Sass | JavaScript | jQuery | Node<br>
+Languages, Frameworks, & Libraries: Bootstrap | Tailwind CSS | Sass | JavaScript | jQuery | Node | React<br>
 Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility
 
 ## Projects & Toolbox
