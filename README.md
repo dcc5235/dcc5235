@@ -12,7 +12,7 @@ Languages, Frameworks, & Libraries: Bootstrap | Tailwind CSS | Sass | JavaScript
 Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility
 
 ## Projects & Toolbox
-Have a look at a select number of projects I have worked on. You can find more in the [Master Index](https://github.com/dcc5235/Master_Index).
+Have a look at a select number of repositories I have worked on. You can find more in the [Master Index](https://github.com/dcc5235/Master_Index).
   
 Project | Code | Demo
 ------------ | ------------- | ------------- 
