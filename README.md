@@ -8,8 +8,10 @@ Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Ind
 
 ## Technologies & Skills
 
-Languages, Frameworks, & Libraries: Bootstrap | Tailwind CSS | Sass | JavaScript | jQuery | Node | React<br>
-Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility<br>
+Languages, Frameworks, & Libraries: Bootstrap | Tailwind CSS | Sass | JavaScript | jQuery | Node | React
+
+Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsive Design | Web Accessibility
+
 [Strengthsfinder](https://bit.ly/3nBdOjh) Skills: Restorative (problem solve & implement solutions) | Input (collect & archive) | Developer (cultivate potential in others) | Connectedness (see links between events) | Relator (form close relationships)
 
 ## Projects & Toolbox
