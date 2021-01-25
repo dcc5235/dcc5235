@@ -16,6 +16,8 @@ Tools & Skills: Git | GitHub | Yarn | npm | REST API | Trello | Jira | Responsiv
 
 ## Projects & Toolbox
 Have a look at a select number of repositories I have worked on. You can find more in the [Master Index](https://github.com/dcc5235/Master_Index).
+
+### I am currently working on another e-commerce website with a dynamic shopping cart, built from scratch. You can find the repository [here](https://github.com/dcc5235/Portfolio).
   
 Project | Code | Demo
 ------------ | ------------- | ------------- 
