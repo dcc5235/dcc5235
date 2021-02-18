@@ -4,7 +4,7 @@
 Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. <br>
 <br>You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
-# Check out my website [here](https://danychheang.com).
+## Check out my website [here](https://danychheang.com).
 
 ## Technologies & Skills
 
