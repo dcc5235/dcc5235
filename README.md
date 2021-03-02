@@ -4,7 +4,9 @@
 Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. <br>
 <br>You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
-## Check out my website [here](https://danychheang.com).
+## Current Projects
+
+Check out my official website [here](https://danychheang.com). I am currently working on an eCommerce platform, built from the ground up. You can demo what is available [here](https://mortarpestle.netlify.app/). However, this is still a work in progress.
 
 ## Technologies & Skills
 
@@ -24,11 +26,9 @@ Bootstrap | [Sign Language Generator](https://github.com/dcc5235/Sign_Language) 
 CSS Grids | [Grid Homes](https://github.com/dcc5235/Grid_Homes) | [View Properties](https://dcc5235.github.io/Grid_Homes/)
 Flexbox | [Flex Reviews](https://github.com/dcc5235/Flex_Reviews) | [Book a Room](https://dcc5235.github.io/Flex_Reviews/)
 JavaScript | [Secret Message Sharing App](https://github.com/dcc5235/Hidden_Message) | [Send a Hidden Message](https://hidden-message-seven.vercel.app/)
-Matter | [A-maze-ing Game](https://github.com/dcc5235/A-maze-ing_Game) | [Solve the Maze](https://dcc5235.github.io/A-maze-ing_Game/)
 Node | [E-Commerce Shop](https://github.com/dcc5235/EComm_Shop) | N/A
 React | [Robo Cat Friends](https://github.com/dcc5235/Robo_Friends) | [Search a Directory](https://dcc5235.github.io/Robo_Friends/)
 Sass | [Childcare Client Site](https://github.com/dcc5235/Childcare_Landing) | [Find a Provider](https://dcc5235.github.io/Childcare_Landing/)
-Tailwind | [Bubble Tea Landing Page](https://github.com/dcc5235/Tea_Landing) | [Score Some Boba](https://dcc5235.github.io/Tea_Landing/)
 
 
 <!--
