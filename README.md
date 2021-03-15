@@ -6,7 +6,7 @@ Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Ind
 
 ## Current Projects
 
-Check out my official website [here](https://danychheang.com). I am currently working on an eCommerce platform, built from the ground up. You can demo what is available [here](https://mortarpestle.netlify.app/). However, this is still a work in progress.
+Check out my official website [here](https://danychheang.com). I am currently working on a JavaScript eCommerce platform, built from the ground up. You can demo what is available [here](https://mortarpestle.netlify.app/). However, this is still a work in progress. 
 
 ## Technologies & Skills
 
