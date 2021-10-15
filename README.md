@@ -4,10 +4,6 @@
 Feel free to look around my [Master Index](https://github.com/dcc5235/Master_Index) to see what I've worked on previously. <br>
 <br>You can connect with me via [Linkedin](https://www.linkedin.com/in/danychheang/) or follow me on [Twitter](https://twitter.com/DanyChheang) and [Medium](https://medium.com/switching-careers-to-front-end-development). </strong>
 
-## Current Projects
-
-Check out my official website [here](https://danychheang.com). I am currently working on a JavaScript eCommerce platform, built from the ground up. You can demo what is available [here](https://mortarpestle.netlify.app/). However, this is still a work in progress. 
-
 ## Technologies & Skills
 
 Languages, Frameworks, & Libraries: Bootstrap | Tailwind CSS | Sass | JavaScript | jQuery | Node | React
